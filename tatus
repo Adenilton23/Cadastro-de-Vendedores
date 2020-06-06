@@ -1,0 +1,59 @@
+[33mcommit 568536f4d7a48b2665de8da214d0b8e07918f06c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Adenilton Pereira <adenilton_23@yahoo.com.br>
+Date:   Sun May 31 16:48:51 2020 -0300
+
+    SellersController
+
+[33mcommit 3277036e06b5e0ae4e838a1975a445e278976280[m
+Author: Adenilton Pereira <adenilton_23@yahoo.com.br>
+Date:   Sun May 31 16:27:26 2020 -0300
+
+    Seeding Service
+
+[33mcommit 8136749f20ae109f1e5912ae7af80329ddbcb00b[m
+Author: Adenilton Pereira <adenilton_23@yahoo.com.br>
+Date:   Sun May 31 13:07:04 2020 -0300
+
+    Other entities and second migration
+
+[33mcommit 054d06266fd0c478102886d411641d6897dfe788[m
+Author: Adenilton Pereira <adenilton_23@yahoo.com.br>
+Date:   Sat May 30 17:35:14 2020 -0300
+
+    Changing theme
+
+[33mcommit 298d440b5beebf8a1b8cd1ddd0dededacbfcdb19[m
+Author: Adenilton Pereira <adenilton_23@yahoo.com.br>
+Date:   Fri May 29 23:26:09 2020 -0300
+
+    MySql adaptation and first migration
+
+[33mcommit 927883478119b9d725768a19a3a0d8480ac7116c[m
+Author: Adenilton Pereira <adenilton_23@yahoo.com.br>
+Date:   Fri May 29 17:20:46 2020 -0300
+
+    CRUD Scaffolding
+
+[33mcommit 3f50f030d13cea7bff91c96b3053277059bac63a[m
+Author: Adenilton Pereira <adenilton_23@yahoo.com.br>
+Date:   Fri May 29 17:10:32 2020 -0300
+
+    Deleting Departament view and controller
+
+[33mcommit 4374a17db8998fe4b1980ca3e01cb071514f0ef3[m
+Author: Adenilton Pereira <adenilton_23@yahoo.com.br>
+Date:   Thu May 28 19:09:20 2020 -0300
+
+     First Model-controller-view - Departament
+
+[33mcommit b7cb3d3f279cbf0fc27be6df8ca36bb763426103[m
+Author: Adenilton Pereira <adenilton_23@yahoo.com.br>
+Date:   Wed May 27 18:48:57 2020 -0300
+
+    Project created
+
+[33mcommit 03f0de25ff2adc72369865fd41a34e591c80c417[m
+Author: ADENILTON PEREIRA DOS SANTOS <adenilton_23@yahoo.com.br>
+Date:   Wed May 27 18:42:56 2020 -0300
+
+    Initial commit
