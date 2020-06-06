@@ -20,6 +20,13 @@ namespace SalesWebMvc.Service
         {
             return _context.Seller.ToList();
         }
+        // Inserir Vendedor no banco
+        public void Insert(Seller obj)
+        {
+            _context.Add(obj);
+            // Confirmar a insercao
+            _context.SaveChanges();
+        }
 
 
 
