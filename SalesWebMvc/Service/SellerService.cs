@@ -22,14 +22,10 @@ namespace SalesWebMvc.Service
         }
         // Inserir Vendedor no banco
         public void Insert(Seller obj)
-        {
-            obj.Departament = _context.Departament.First();
+        {            
             _context.Add(obj);
             // Confirmar a insercao
             _context.SaveChanges();
         }
-
-
-
     }
 }
