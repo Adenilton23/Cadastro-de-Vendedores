@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 using SalesWebMvc.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace SalesWebMvc.Service
 {
@@ -18,9 +19,9 @@ namespace SalesWebMvc.Service
         }
 
         // Metodo retorna lista Departamentos
-        public List<Departament> FindAll()
+        public async Task<List<Departament>> FindAllAsync()
         {
-            return _context.Departament.OrderBy(x => x.Name).ToList();
+            return  await _context.Departament.OrderBy(x => x.Name).ToListAsync();
         }
     }
 }
